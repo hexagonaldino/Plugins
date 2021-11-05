@@ -1,0 +1,4 @@
+name: FirstPlugin
+version: '0.1'
+main: firstplugin.firstplugin.FirstPlugin
+api-version: 1.17
