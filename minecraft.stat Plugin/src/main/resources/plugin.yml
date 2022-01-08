@@ -1,0 +1,9 @@
+name: stat
+version: '${project.version}'
+main: menu.menu.Menu
+api-version: 1.16
+commands:
+  menu:
+    description: 메뉴 커맨드
+    usage: /menu, /apsb, /메뉴
+    aliases: [menu, apsb, 메뉴]
