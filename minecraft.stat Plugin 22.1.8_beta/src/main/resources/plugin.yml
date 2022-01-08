@@ -1,0 +1,8 @@
+name: stat
+version: 22.1.8_beta
+main: stat.stat.stat
+api-version: 1.16
+commands:
+  menu:
+    description: stat command
+    usage: /stat
