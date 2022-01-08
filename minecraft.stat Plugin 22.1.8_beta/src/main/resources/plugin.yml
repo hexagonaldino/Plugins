@@ -1,5 +1,5 @@
 name: stat
-version: 22.1.8_beta
+version: 22.01.08_beta
 main: stat.stat.stat
 api-version: 1.16
 commands:
