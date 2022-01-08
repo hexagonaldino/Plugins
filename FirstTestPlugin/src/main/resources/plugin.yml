@@ -1,8 +1,0 @@
-name: FirstPlugin
-version: '${project.version}'
-main: firstplugin.firstplugin.FirstPlugin
-api-version: 1.17
-
-commands:
-  menu:
-    description: menu
